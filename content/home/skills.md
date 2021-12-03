@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: Guitar
 - description: 50%
-  icon: basketball-bal
+  icon: basketball-ball
   icon_pack: fas
   name: Basketball
 
