@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.asvda.org/
+- certificate_url: https://www.nthu.edu.tw/
   date_end: ""
-  date_start: "2019-07-08"
+  date_start: "2021-07-01"
   description: ""
-  organization: Asia Silicon Valley Development Agency
-  organization_url: https://www.asvda.org/
-  title: Deep Learning with Industrial Big Data
+  organization: National Tsing Hua University
+  organization_url: https://www.nthu.edu.tw/
+  title: Applied Artificial Intelligence Program
+  url: ""
+- certificate_url: https://www.nthu.edu.tw/
+  date_end: ""
+  date_start: "2021-07-01"
+  description: ""
+  organization: National Tsing Hua University
+  organization_url: https://www.nthu.edu.tw/
+  title: Data Science Program
   url: ""
 - certificate_url: https://www.udemy.com/
   date_end: ""
