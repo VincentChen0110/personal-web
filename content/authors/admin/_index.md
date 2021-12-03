@@ -6,7 +6,7 @@ title: Vincent Chen
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.sinica.edu.tw/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning and natural language processing.
 
 # Interests to show in About widget
 interests:
@@ -68,7 +68,6 @@ email: ""
 highlight_name: true
 ---
 
-Vincent Chen is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
+I am a research assistant in the institute of information science in Academia Sinica! I am currently conducting research in the NLPSA lab. My research interests include deep learning and natural language processing. I am currently working on to create coherent and fun text (e.g., stories) based on an image stream. Also, I aim to create a general metric for Natural Language Generation to evaluate the true quality of generated text! 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
