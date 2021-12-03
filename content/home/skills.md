@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 80%
-  icon: fa-code
+  icon: code
   icon_pack: fas
   name: C++
 - description: 80%
-  icon: fa-python
+  icon: python
   icon_pack: fab
   name: Python
 - description: 80%
@@ -29,11 +29,11 @@ feature:
   icon_pack: fab
   name: R
 - description: 70%
-  icon: fa-guitar
+  icon: guitar
   icon_pack: fas
   name: Guitar
 - description: 50%
-  icon: fa-basketball-bal
+  icon: basketball-bal
   icon_pack: fas
   name: Basketball
 
