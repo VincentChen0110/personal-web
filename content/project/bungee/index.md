@@ -2,7 +2,7 @@
 title: Bungee Jumping Simulator
 summary: Simulates bungee jumping process with all the physics included!
 tags:
-- Other
+- Demo
 date: "2018-12-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
