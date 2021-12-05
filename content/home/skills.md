@@ -28,7 +28,11 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 70%
+- description: 80%
+  icon: piano
+  icon_pack: custom
+  name: Piano
+- description: 50%
   icon: guitar
   icon_pack: fas
   name: Guitar
