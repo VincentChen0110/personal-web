@@ -1,6 +1,6 @@
 ---
-title: Bungee Jumping Simulator
-summary: Simulates bungee jumping process with all the physics included!
+title: Fake News Analysis
+summary: Determining how to discriminate fake news with LDA 
 tags:
 - Deep Learning
 date: "2018-12-25T00:00:00Z"
