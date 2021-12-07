@@ -39,7 +39,7 @@ item:
   organization_url: https://www.nthu.edu.tw/
   title: Data Science Program
   url: ""
-- certificate_url: https://www.udemy.com/
+- certificate_url: https://vincent0110.netlify.app/uploads/Udemy_NLP_Certificate.pdf
   date_end: ""
   date_start: "2021-10-11"
   description: 
